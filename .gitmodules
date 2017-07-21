@@ -1,0 +1,9 @@
+[submodule "gtest_fwk"]
+	path = gtest_fwk
+	url = https://github.com/BeentageBand/gtest_fwk
+[submodule "ipc"]
+	path = ipc
+	url = https://github.com/BeentageBand/ipc
+[submodule "dbg_log"]
+	path = dbg_log
+	url = https://github.com/BeentageBand/dbg_log
